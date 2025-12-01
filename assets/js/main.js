@@ -94,7 +94,7 @@ $(function () {
         e.preventDefault(); // Stop form from reloading the page
 
 
-var site_phone = 255752832590
+var site_phone = 255741990999
 
         // form data
         var name = $("input[name='name']").val();
