@@ -95,7 +95,6 @@ $(function () {
 
 
 var site_phone = 255741990999
-
         // form data
         var name = $("input[name='name']").val();
         var number = $("input[name='number']").val();
